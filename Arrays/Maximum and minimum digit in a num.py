@@ -1,4 +1,4 @@
-'''Q1 - Maximum and Minimum digit in a Number
+'''Q - Maximum and Minimum digit in a Number
 
 Problem Statement:
 Given an integer N, find and print the smallest digit and largest digit present in the number.
