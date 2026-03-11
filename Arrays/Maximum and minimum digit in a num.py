@@ -1,3 +1,18 @@
+'''Q1 - Maximum and Minimum digit in a Number
+
+Problem Statement:
+Given an integer N, find and print the smallest digit and largest digit present in the number.
+
+Input Format:
+· A single integer N
+
+Output Format:
+. Print two integers separated by space:
+Minimum Digit Maximum Digit
+
+Constraints:
+· 1 SN ≤ 10**9
+'''
 n=int(input())
 maxi=float('-inf')
 mini=float('inf')
